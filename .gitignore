@@ -28,3 +28,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/GoogleVR
+Assets/Myo Samples
+Assets/Myo
+Assets/Plugins
