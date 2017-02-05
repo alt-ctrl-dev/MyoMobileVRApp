@@ -14,5 +14,5 @@ Thanks to @f-strieg for his efforts in making the plugin :)
 
 - Add the unity plugin
 - delete myo.dll fron x86_64 folder
-- Add [this](https://github.com/f-strieg/MyoUnityAndroidPlugin/issues/2) to the AndroidManifest to make it work 
+- Add [this](https://github.com/reubenkcoutinho/MyoMobileVRApp/issues/1) to the AndroidManifest to make it work 
 - Build and run
